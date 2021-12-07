@@ -1,7 +1,7 @@
 ---
 title: "Analise de Dados RAIS"
 description: |
-  Este projeto tem como objetivo analisar analisar os salarios na base do RAIS.
+  Este projeto tem como objetivo analisar os salarios na base do RAIS.
 author:
   - name: Marcos Alves
 date: 2021-12-07
@@ -15,6 +15,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Este é o meu primeiro projeto no portfólio
+Este é o meu primeiro projeto no portfólio.
 
 
