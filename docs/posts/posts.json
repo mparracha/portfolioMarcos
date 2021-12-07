@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-07T16:37:12-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-07-analise-de-dados-rais/",
+    "title": "Analise de Dados RAIS",
+    "description": "Este projeto tem como objetivo analisar analisar os salarios na base do RAIS.",
+    "author": [
+      {
+        "name": "Marcos Alves",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-07",
+    "categories": [],
+    "contents": "\r\nEste é o meu primeiro projeto no portfólio\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-07T17:16:30-03:00",
+    "input_file": "analise-de-dados-rais.knit.md"
   }
 ]
